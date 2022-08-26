@@ -1,5 +1,5 @@
 # CONTRIBUTORS
-- [DanieleTursi] (https://github.com/DanieleTursi)
+- DanieleTursi (https://github.com/DanieleTursi)
 
 - [An Nguyen Phuoc](https://github.com/phuocantd)
 
